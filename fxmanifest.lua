@@ -12,8 +12,3 @@ shared_script 'config.lua'
 dependencies {
     'ox_inventory'
 }
-
-escrow_igonore {
-    'config.lua',
-    'client.lua'
-}
